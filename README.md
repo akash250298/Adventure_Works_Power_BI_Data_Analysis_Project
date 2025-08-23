@@ -1,4 +1,5 @@
-# Adventure_Works_Power_BI_Data_Analysis_ProjectAdventure Works Power BI Data Analysis Project
+# Adventure_Works_Power_BI_Data_Analysis_Project
+
 By Akash Kharche
 
 🚀 Project Summary
