@@ -28,9 +28,5 @@ Techniques for spotlighting sales growth and product category performance.
 
 Leveraged Power BI visuals for clear, effective decision support.
 
-📸 Screenshots
-Dashboard 1
-Dashboard 2
-
 🔗 Repository Link
 GitHub Repo: AdventureWorks_PowerBi_Project
