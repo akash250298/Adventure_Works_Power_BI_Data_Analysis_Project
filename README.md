@@ -27,6 +27,3 @@ Best practices for organizing BI dashboards into compelling data stories.
 Techniques for spotlighting sales growth and product category performance.
 
 Leveraged Power BI visuals for clear, effective decision support.
-
-🔗 Repository Link
-GitHub Repo: AdventureWorks_PowerBi_Project
