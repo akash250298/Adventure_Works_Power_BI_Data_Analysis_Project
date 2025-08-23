@@ -1,29 +1,63 @@
-# Adventure_Works_Power_BI_Data_Analysis_Project
+# 📊 Adventure_Works_Sales PowerBi Data Analysis 
+  **By Akash Kharche**
+---
 
-By Akash Kharche
+## Project Logo
+![Image](https://github.com/akash250298/Adventure_Works_Power_BI_Data_Analysis_Project/blob/main/logo.png)
 
-🚀 Project Summary
-This Power BI solution delivers actionable analysis of sales and order data for AdventureWorks, a global retailer. The dashboard provides in-depth views of revenue performance, order metrics, and product categories, demonstrating proficiency in designing interactive visual experiences that highlight key business opportunities and trends.
+---
 
-📈 Key Insights
-Revenue Expansion: Revenue soared 212.14% between January 2020 and June 2022. A significant upward trend started in August 2021, with revenue surging by 127.18% ($1,022,793.75) over a 10-month span. The most notable growth occurred between August 2021 ($804,193.39) and June 2022 ($1,826,987.14).
+## 🚀 Project Overview
 
-Order Distribution by Category: Accessories drove the largest number of orders (16,983)—143.45% higher than Clothing (6,976). Bikes held the second spot with 13,929 total orders. Breakdown: Accessories (16,983) > Bikes (13,929) > Clothing (6,976).
+This dashboard was built to help stakeholders at Adventure Works understand key sales metrics and make data-driven decisions. It includes dynamic filters for month, year, and continent, allowing users to explore data across time and geography.
 
-🛠️ Power BI Skills Demonstrated
-Data Shaping: Robust data preparation and cleansing carried out using Power Query.
+### Key Features:
+- Year-over-year revenue analysis
+- Product-level performance breakdown
+- Category-wise order distribution
+- Global order mapping by country
+- Return rate and profit margin tracking
 
-Modeling: Structured relationships and defined measures using advanced DAX.
+---
 
-KPIs and Calculations: Delivered custom calculations to support key indicators.
+## 📈 Key Insights
 
-Visualization Design: Developed interactive dashboards utilizing slicers, drill-throughs, and dynamic charts for deeper analysis.
+- **Revenue Growth**: Revenue increased by **212.14%** between January 2020 and June 2022.
+- **Trend Shift**: A significant upward trend began in **August 2021**, with a **127.18%** rise over 10 months.
+- **Category Performance**:
+  - **Accessories** led with **16,983 orders**, **143.43%** higher than Clothing.
+  - **Bikes** followed with **14,949 orders**.
+- **Top Products**: The *Mountain-200* series dominated the top 10 products, contributing **$9.80M** in revenue.
+- **Geographic Spread**: Orders were concentrated in North America and Europe, with notable activity in the Pacific region.
 
-Business Intelligence Reporting: Built end-to-end reports focused on revenue, order distribution, and emerging trends.
+---
 
-🎓 Major Learnings
-Best practices for organizing BI dashboards into compelling data stories.
+## 🛠️ Tools & Technologies
 
-Techniques for spotlighting sales growth and product category performance.
+| Tool        | Purpose                          |
+|-------------|----------------------------------|
+| Power BI    | Data visualization & dashboarding|
+| DAX         | Data modeling & calculations     |
+| Excel       | Data cleaning & preprocessing    |
+| GitHub      | Version control & project sharing|
 
-Leveraged Power BI visuals for clear, effective decision support.
+---
+
+## 📍 How to Use
+
+1. Clone this repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Use filters to explore data by month, year, and continent.
+4. Hover over visuals for detailed tooltips and insights.
+
+---
+
+---
+
+## 📸 Screenshots
+
+<img width="818" height="471" alt="Image" src="https://github.com/akash250298/Adventure_Works_Power_BI_Data_Analysis_Project/blob/main/Images/Dashboard%201.png" />
+
+<img width="819" height="473" alt="Image" src="https://github.com/akash250298/Adventure_Works_Power_BI_Data_Analysis_Project/blob/main/Images/Dashboard%202.png" />
+    
+---
